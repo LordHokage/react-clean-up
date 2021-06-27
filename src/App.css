@@ -10,7 +10,24 @@ body {
 .App {
   text-align: center;
 }
-
+.correct {
+  width: 450px;
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 5px;
+  text-align: center;
+  color: green;
+}
+.incorrect {
+  width: 450px;
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 5px;
+  text-align: center;
+  color: green;
+}
 .directory-container {
   width: 450px;
   height: 600px;
