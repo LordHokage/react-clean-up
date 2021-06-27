@@ -1,3 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: blueviolet;
+}
+
 .App {
   text-align: center;
+}
+
+.directory-container {
+  width: 450px;
+  height: 600px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: azure;
 }
